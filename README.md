@@ -8,6 +8,7 @@ Below are some test cases that I wrote working on my projects.
 Test login with correct credentials
 
 **Description:**
+
 Check if the login works when a person uses the correct credentials.
 
 **Steps to reproduce**
@@ -16,9 +17,11 @@ Check if the login works when a person uses the correct credentials.
 3. Observe if user can login by pressing the "submit" button
 
 **Expected Result**
+
 User should be able to login and is redirected to website having the account loaded.
 
 **Test Data**
+
 User: adrianperianu@hotmail.com
 Pass: prodigy@8486
 
@@ -29,6 +32,7 @@ Pass: prodigy@8486
 Test login with incorrect credentials
 
 **Description:**
+
 Check if the login works when a person uses the incorrect credentials.
 
 **Steps to reproduce**
@@ -37,6 +41,7 @@ Check if the login works when a person uses the incorrect credentials.
 3. Observe if user can login
 
 **Expected Result**
+
 User should not be able to login.
 
 **Test Data**
@@ -50,6 +55,7 @@ Pass: 123456
 Test login without credentials
 
 **Description:**
+
 Check if the login works without typing credentials.
 
 **Steps to reproduce**
@@ -58,6 +64,7 @@ Check if the login works without typing credentials.
 3. Observe if user can login
 
 **Expected Result**
+
 User should not be able to login without typing the credentials.
 
 -------------------------------------------------------------------
@@ -68,6 +75,7 @@ The "Remember Me" checkbox on the login page should be functional
 
 
 **Description:**
+
 Check if the "Remember Me" checkbox works when returning to login action after logging in with correct credentials.
 
 **Steps to reproduce**
@@ -79,8 +87,11 @@ Check if the "Remember Me" checkbox works when returning to login action after l
 6. Observe if user can login again successfully
 
 **Expected Result**
+
 User should be able to login successfully without having to retype the credentials if the step of loggin in has formerly been performed correctly by ticking the "Remember me" checkbox. 
 
 **Test Data**
+
 User: adrianperianu@hotmail.com
 Pass: prodigy@8486
+
