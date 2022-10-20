@@ -4,6 +4,7 @@ Below are some test cases that I wrote working on my projects.
 
 ---------------------------------------------------------------
 **Title**
+
 Test login with correct credentials
 
 **Description:**
@@ -20,9 +21,11 @@ User should be able to login and is redirected to website having the account loa
 **Test Data**
 User: adrianperianu@hotmail.com
 Pass: prodigy@8486
+
 ---------------------------------------------------------------
 
 **Title**
+
 Test login with incorrect credentials
 
 **Description:**
@@ -43,6 +46,7 @@ Pass: 123456
 -----------------------------------------------------------------
 
 **Title**
+
 Test login without credentials
 
 **Description:**
@@ -57,7 +61,9 @@ Check if the login works without typing credentials.
 User should not be able to login without typing the credentials.
 
 -------------------------------------------------------------------
+
 **Title**
+
 The "Remember Me" checkbox on the login page should be functional 
 
 
