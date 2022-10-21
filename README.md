@@ -23,6 +23,7 @@ User should be able to login and is redirected to website having the account loa
 **Test Data**
 
 User: adrianperianu@hotmail.com
+
 Pass: prodigy@8486
 
 ---------------------------------------------------------------
@@ -45,7 +46,9 @@ Check if the login works when a person uses the incorrect credentials.
 User should not be able to login.
 
 **Test Data**
+
 User: adip2022
+
 Pass: 123456
 
 -----------------------------------------------------------------
@@ -93,5 +96,6 @@ User should be able to login successfully without having to retype the credentia
 **Test Data**
 
 User: adrianperianu@hotmail.com
+
 Pass: prodigy@8486
 
